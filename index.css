@@ -140,7 +140,11 @@
 }
 .healthy-food-section-img {
   width: 270px;
+  transition: transform 0.3s ease;
 }
+.healthy-food-section-img:hover {
+  transform: scale(1.05);
+}  
 .healthy-food-section-heading {
   color: #183b56;
   font-family: "Roboto";
