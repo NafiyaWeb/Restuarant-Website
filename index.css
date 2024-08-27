@@ -231,7 +231,7 @@
   transition: transform 0.3s ease;
 }
 .follow-us-icon-container1:hover {
-    background-color: #767a77;
+    background-color: #b6b8ba;
     transform: scale(1.1);
 }
 .follow-us-icon-container2 {
@@ -269,8 +269,9 @@
   font-size: 35px;
 }
 .icon2 {
-  color: #962fbf;
+  color: #fff;
   font-size: 35px;
+  background: radial-gradient(circle at 30% 30%, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
 }
 .icon3 {
   color: #316FF6;
