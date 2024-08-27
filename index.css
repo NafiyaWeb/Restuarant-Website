@@ -164,7 +164,7 @@
   width: 270px;
   transition: transform 0.5s ease;
 }
-.delivery-and-payment-section-img{
+.delivery-and-payment-section-img:hover {
   transform: rotate(360deg);
 }
 .delivery-and-payment-section-heading {
@@ -232,7 +232,7 @@
   transition: transform 0.3s ease;
 }
 .follow-us-icon-container:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
 .icon {
   color: #d0b200;
