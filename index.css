@@ -220,6 +220,21 @@
   font-weight: 700;
 }
 .follow-us-icon-container1 {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+  transition: transform 0.3s ease;
+}
+.follow-us-icon-container1:hover {
+    background-color: #454545;
+    transform: scale(1.1);
+}
+.follow-us-icon-container2 {
   background-color: #454545;
   width: 80px;
   height: 80px;
@@ -231,11 +246,35 @@
   padding-left: 22px;
   transition: transform 0.3s ease;
 }
-.follow-us-icon-container:hover {
+.follow-us-icon-container2:hover {
+    background-color: #DAB1DA;
     transform: scale(1.1);
 }
-.icon {
-  color: #d0b200;
+.follow-us-icon-container3 {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+  transition: transform 0.3s ease;
+}
+.follow-us-icon-container3:hover {
+    background-color: #b5cbfc;
+    transform: scale(1.1);
+}
+.icon1 {
+  color: #000000;
+  font-size: 35px;
+}
+.icon2 {
+  color: #962fbf;
+  font-size: 35px;
+}
+.icon3 {
+  color: #316FF6;
   font-size: 35px;
 }
 .footer-section {
