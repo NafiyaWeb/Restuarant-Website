@@ -246,7 +246,7 @@
   transition: transform 0.3s ease;
 }
 .follow-us-icon-container2:hover {
-    background-color: radial-gradient(circle at 30% 30%, #fae0a0, #faa0e0, #d780ed);
+    background-color: radial-gradient(circle at #fae0a0, #faa0e0, #d780ed);
     transform: scale(1.1);
 }
 .follow-us-icon-container3 {
@@ -269,7 +269,7 @@
   font-size: 35px;
 }
 .icon2 {
-  padding: 10px;
+  padding: 5px;
   border-radius: 4px;
   color: #fff;
   font-size: 35px;
