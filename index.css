@@ -134,6 +134,7 @@
 }
 .menu-item-card:hover{
     transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 .healthy-food-section {
   background-color: #f9fbfe;
@@ -143,7 +144,7 @@
   transition: transform 0.3s ease;
 }
 .healthy-food-section-img:hover {
-  transform: scale(1.05);
+  transform: scale(1.1);
 }  
 .healthy-food-section-heading {
   color: #183b56;
@@ -199,6 +200,10 @@
 .thanking-customers-section-img {
   width: 270px;
   margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+.thanking-customers-section-img:hover {
+  transform: scale(1.1);
 }
 .thanking-customers-section-modal-title {
   color: #d0b200;
@@ -227,7 +232,7 @@
   transition: transform 0.3s ease;
 }
 .follow-us-icon-container:hover {
-    transform: scale(1.09);
+    transform: scale(1.5);
 }
 .icon {
   color: #d0b200;
