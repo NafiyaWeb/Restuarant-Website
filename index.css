@@ -161,6 +161,10 @@
 }
 .delivery-and-payment-section-img {
   width: 270px;
+  transition: transform 0.5s ease;
+}
+.delivery-and-payment-section-img{
+  transform: rotate(360deg);
 }
 .delivery-and-payment-section-heading {
   color: #183b56;
